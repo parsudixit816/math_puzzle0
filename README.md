@@ -13,8 +13,9 @@ and input verifying .
 used conditions to block the unwanted format (like 0 in fraction )
 
 ## how did i run it 
-to compile it : g++ "filepath" -o "naameyouwant"
-to run it : ./"filepath"
+in folder:
+to compile it : g++ math_puzzle.cpp -o math_puzzle .
+to run it : ./math_puzzle .
 
 ## what i learned 
 it just starting of me , my first project on Git-hub.
