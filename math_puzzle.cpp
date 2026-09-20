@@ -22,8 +22,8 @@ cout<< "@ starting "<< amnt <<" random questions Queez now !" << endl <<"=======
 ////// input times loop
 for (int c=1; c<=amnt ; c++)
 {
-    x = rand() %99+1 ;
-    y = rand() %99+1 ;
+    x = rand() %99 ;
+    y = rand() %99 ;
     op= rand() %4+1;
 
     /////assining proscess
